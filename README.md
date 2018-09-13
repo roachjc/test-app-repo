@@ -3,4 +3,4 @@ Repo to use in development of GH app
 
 dfhsknthsetr 
 
-adding more to readme
+adding more to readmed
